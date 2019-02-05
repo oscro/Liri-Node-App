@@ -59,7 +59,7 @@ function bands () {
         };
 
         }).catch(function (error) {
-        console.log(error);
+        console.log("AHHHH! " + error);
         });
 };
 
@@ -83,8 +83,9 @@ function movieThis () {
 function doWhatItSays () {
 
         fs.readFile("random.txt", "utf8", function(error, data) {
-            if (error) {return console.log(error);};
-            var dataArr = data.split(",");   
+            if (error) {return console.log("AHHHH! " + error);};
+            var dataArr = data.split(","); 
+            console.log(dataArr);  
             userInput = dataArr[1];
             switch (dataArr[0]){
                 case "spotify-this-song":

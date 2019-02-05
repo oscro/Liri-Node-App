@@ -62,3 +62,14 @@ liri.js can take in one of the following terminal commands:
 
 
 
+### LIRI in Action!
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
