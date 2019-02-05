@@ -59,20 +59,10 @@ liri.js can take in one of the following terminal commands:
 4. `node liri.js do-what-it-says`
 
      * LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
-<<<<<<< HEAD
 
 
 
 ### LIRI in Action!
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+[Link to LIRI in Action Video](https://youtu.be/noiq-4HOCQI)
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-=======
->>>>>>> 99038b27bafbdf7c25e2e40deee2f019305d4fcf
